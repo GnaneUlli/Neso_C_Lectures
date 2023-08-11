@@ -9,6 +9,7 @@ int main(){
     int a=055;
     printf("%o\n",a);
 }*/
+
 #include<stdio.h>
 #define Gnane "%s\n"
 #define name "My name is Gnaneswarao.."
