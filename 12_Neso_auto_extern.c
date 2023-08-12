@@ -14,7 +14,6 @@ int main(){
     ext(a);
 
 }
-
 int ext(int b){
     extern int a;
     printf("%d\n",a);
