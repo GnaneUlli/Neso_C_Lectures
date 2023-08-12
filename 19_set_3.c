@@ -4,6 +4,7 @@ int main(){
     printf("%x\n",var);
 }
 */
+
 #include<stdio.h>
 static int i=27;
 static int i;
